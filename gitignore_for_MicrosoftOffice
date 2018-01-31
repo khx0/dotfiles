@@ -1,0 +1,7 @@
+*.tmp
+
+# ignore Word temporaries
+~$*.doc*
+
+# ignore Excel temporaries
+~$*.xls*
