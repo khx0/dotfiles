@@ -1,4 +1,4 @@
-# last revision 2018-03-06
+# last revision 2018-08-23
 # khx0@posteo.net
 
 *.tmp
@@ -8,3 +8,6 @@
 
 # ignore Excel temporaries
 ~$*.xls*
+
+# ignore PowerPoint temporaries
+~$*.ppt*
