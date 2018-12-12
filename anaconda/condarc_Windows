@@ -1,0 +1,18 @@
+##########################################################################################
+# author: Nikolas Schnellbaecher
+# contact: khx0@posteo.net
+# date: 2018-12-12
+# file: condarc_Windows
+# .condarc template for Windows
+##########################################################################################
+
+ssl_verify: true
+
+##########################################################################################
+# Specify conda channels
+# To add a local channel which is located in D:\path\to\channel
+# use the syntax as illustrated below
+channels:
+  - file:///C:\path\to\channel
+  - defaults
+##########################################################################################
