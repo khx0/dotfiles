@@ -13,6 +13,6 @@ ssl_verify: true
 # To add a local channel which is located in D:\path\to\channel
 # use the syntax as illustrated below
 channels:
-  - file:///C:\path\to\channel
+  - file:///D:\path\to\channel
   - defaults
 ##########################################################################################
